@@ -1,4 +1,5 @@
 <?php
+namespace PBO4_;
 
 class Siswa {
     // 3 Property sesuai rancangan sistem
